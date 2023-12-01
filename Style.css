@@ -1,0 +1,40 @@
+.btn-AddSpecific{
+    background-color: blue !important;
+    color: white !important;
+    font-weight: bold !important;
+}
+.btn-AddGeneral{
+    background-color: red !important;
+    color: white !important;
+    font-weight: bold !important;
+}
+.FruitAlertClass{
+border: 5px;
+}
+.btn-SearchItem{
+    background-color: aqua !important;
+    color: white !important;
+    font-weight: bold !important;
+}
+.btn-DeleteItem{
+    background-color: red !important;
+    color: white !important;
+    font-weight: bold !important;
+    
+}
+.header1{
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 10px;
+}
+.body1{
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 10px;
+}
+.header1:hover{
+    transform: scale(1.05);
+   
+    
+}
+.body1:hover{
+    transform: scale(1.05);
+}
