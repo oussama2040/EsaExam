@@ -141,7 +141,7 @@ function filterAndHighlight(searchTerm, originalArray, containerId, filteredArra
             var lowerSearchTerm = searchTerm.toLowerCase();
 
             if (lowerItem.includes(lowerSearchTerm) && item.classList.contains('alert-primary')) {
-                /
+                
                 item.style.display = "none";
             }
         });
